@@ -5,7 +5,7 @@ Tool using <a href="https://github.com/GSRHackZ/Num-2-Word">Num-2-Word</a> repo.
 <h3>Steps for use: </h3>
 <ol style="margin-bottom:10px;">
   <li>Write numbers in input field.</li><br>
-  <li>click <b>Enter</b>.</li><br>
+  <li>Click <b>Enter</b>.</li><br>
 <li>Get inputted number in writing.</li><br>
 <li>Enjoy!!</li><br>
 </ol>
